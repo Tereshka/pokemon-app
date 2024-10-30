@@ -1,7 +1,7 @@
 # Pokemon-app
 React application with GraphQL and Apollo
 
-[Live demo](https://github.com/facebook/create-react-app).
+[Live demo](https://tereshka.github.io/pokemon-app/).
 
 ## Available Scripts
 
